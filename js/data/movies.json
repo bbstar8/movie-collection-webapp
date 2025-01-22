@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Inception",
+    "releaseYear": 2010,
+    "genre": "Sci-Fi",
+    "description": "A skilled thief leads a daring heist in the dream world.",
+    "poster": "images/inception.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "releaseYear": 2008,
+    "genre": "Action",
+    "description": "Batman faces off against the Joker in Gotham City.",
+    "poster": "images/dark_knight.jpeg"
+  },
+  {
+    "title": "Interstellar",
+    "releaseYear": 2014,
+    "genre": "Sci-Fi",
+    "description": "A team travels through a wormhole to save humanity.",
+    "poster": "images/interstellar.jpeg"
+  },
+  {
+    "title": "Parasite",
+    "releaseYear": 2019,
+    "genre": "Thriller",
+    "description": "A poor family schemes to infiltrate a wealthy household.",
+    "poster": "images/parasite_movie.jpeg"
+  }
+]
