@@ -1,7 +1,10 @@
 document.addEventListener("DOMContentLoaded", () => {
+    const select_group = document.getElementById("genre-filter");
+    const movie_cards = document.getElementById("movie-grid");
+
     function fetchMovieData() {
     
-        const select_group = document.getElementById("genre-filter");
+        
         fetch("./js/data/movies.json")
             .then((res) => {
                 if (!res.ok) {
@@ -20,6 +23,13 @@ document.addEventListener("DOMContentLoaded", () => {
                     option.textContent = genre;
                     // append each created option with genre
                     select_group.append(option)
+                })
+
+                movies.forEach((movie) => {
+                    const movie_card = document.createElement("div");
+                    movie_card.textContent = movie.title;
+
+                    movie_cards.append(movie_card);
                 })
 
             })
