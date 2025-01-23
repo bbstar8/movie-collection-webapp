@@ -1,5 +1,5 @@
 # movie-collection-webapp
-A simple web app with HTML, CSS, and JavaScript that renders and filters movies based on their genres.
+A simple web app that renders and filters movies based on their genres using HTML, CSS, and JavaScript.
 
 
 ## Setup Instructions
@@ -53,3 +53,14 @@ movie-collection-webapp/
 
 
 ## Terminal Screenshots
+#### Repository Setup
+1. Creating the project directory using CLI
+![Project Directory Creation Using CLI](/images/pd.png)
+2. Initializing Git repository
+![Initializing Git repository](/images/gitinit.png)
+3. Creating project structure using CLI
+![Creating project structure using CLI](/images/structure.png)
+4. Creating GitHub repository and pushing initial structure
+![Creating GitHub repository and pushing initial structure](/images/add.png)
+![Creating GitHub repository and pushing initial structure](/images/commit.png)
+![Creating GitHub repository and pushing initial structure](/images/push.png)
