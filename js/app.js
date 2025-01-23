@@ -8,7 +8,8 @@ function fetchMovieData() {
 		      return res.json();
 	      })
 	      .then((data) => {
-		      console.log(data)
+		      const genres = data.genres;
+		      console.log(genres);
 	      })
 	      .catch((error) => 
 		      console.error("Unable to fetch data", error));
