@@ -1,6 +1,8 @@
-# movie-collection-webapp
+# Movie Collection Webapp
 A simple web app that renders and filters movies based on their genres using HTML, CSS, and JavaScript.
 
+## Link to Live Site
+[Movie Collection WebApp](https://playful-cendol-7e1250.netlify.app/)
 
 ## Setup Instructions
 Provide steps to get the app running locally.
