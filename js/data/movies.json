@@ -744,6 +744,446 @@
           "actors": "Jean Dujardin, Bérénice Bejo, John Goodman, James Cromwell",
           "plot": "A silent movie star meets a young dancer, but the arrival of talking pictures sends their careers in opposite directions.",
           "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzk0NzQxMTM0OV5BMl5BanBnXkFtZTcwMzU4MDYyNQ@@._V1_SX300.jpg"
-      }
-  ]
+      },
+      {
+        "id": 51,
+        "title": "Forrest Gump",
+        "year": "1994",
+        "runtime": "142",
+        "genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "director": "Robert Zemeckis",
+        "actors": "Tom Hanks, Rebecca Williams, Sally Field, Michael Conner Humphreys",
+        "plot": "Forrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BYThjM2MwZGMtMzg3Ny00NGRkLWE4M2EtYTBiNWMzOTY0YTI4XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+    },
+    {
+        "id": 52,
+        "title": "The Hobbit: The Desolation of Smaug",
+        "year": "2013",
+        "runtime": "161",
+        "genres": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "director": "Peter Jackson",
+        "actors": "Ian McKellen, Martin Freeman, Richard Armitage, Ken Stott",
+        "plot": "The dwarves, along with Bilbo Baggins and Gandalf the Grey, continue their quest to reclaim Erebor, their homeland, from Smaug. Bilbo Baggins is in possession of a mysterious and magical ring.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzU0NDY0NDEzNV5BMl5BanBnXkFtZTgwOTIxNDU1MDE@._V1_SX300.jpg"
+    },
+    {
+        "id": 53,
+        "title": "Vicky Cristina Barcelona",
+        "year": "2008",
+        "runtime": "96",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "director": "Woody Allen",
+        "actors": "Rebecca Hall, Scarlett Johansson, Christopher Evan Welch, Chris Messina",
+        "plot": "Two girlfriends on a summer holiday in Spain become enamored with the same painter, unaware that his ex-wife, with whom he has a tempestuous relationship, is about to re-enter the picture.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU2NDQ4MTg2MV5BMl5BanBnXkFtZTcwNDUzNjU3MQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 54,
+        "title": "Slumdog Millionaire",
+        "year": "2008",
+        "runtime": "120",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "director": "Danny Boyle, Loveleen Tandan",
+        "actors": "Dev Patel, Saurabh Shukla, Anil Kapoor, Rajendranath Zutshi",
+        "plot": "A Mumbai teen reflects on his upbringing in the slums when he is accused of cheating on the Indian Version of \"Who Wants to be a Millionaire?\"",
+        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTU2NTA5NzI0N15BMl5BanBnXkFtZTcwMjUxMjYxMg@@._V1_SX300.jpg"
+    },
+    {
+        "id": 55,
+        "title": "Lost in Translation",
+        "year": "2003",
+        "runtime": "101",
+        "genres": [
+            "Drama"
+        ],
+        "director": "Sofia Coppola",
+        "actors": "Scarlett Johansson, Bill Murray, Akiko Takeshita, Kazuyoshi Minamimagoe",
+        "plot": "A faded movie star and a neglected young woman form an unlikely bond after crossing paths in Tokyo.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI2NDI5ODk4N15BMl5BanBnXkFtZTYwMTI3NTE3._V1_SX300.jpg"
+    },
+    {
+        "id": 56,
+        "title": "Match Point",
+        "year": "2005",
+        "runtime": "119",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Thriller"
+        ],
+        "director": "Woody Allen",
+        "actors": "Jonathan Rhys Meyers, Alexander Armstrong, Paul Kaye, Matthew Goode",
+        "plot": "At a turning point in his life, a former tennis pro falls for an actress who happens to be dating his friend and soon-to-be brother-in-law.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMzNzY4MzE5NF5BMl5BanBnXkFtZTcwMzQ1MDMzMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 57,
+        "title": "Psycho",
+        "year": "1960",
+        "runtime": "109",
+        "genres": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "director": "Alfred Hitchcock",
+        "actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+        "plot": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMDI3OWRmOTEtOWJhYi00N2JkLTgwNGItMjdkN2U0NjFiZTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg"
+    },
+    {
+        "id": 58,
+        "title": "North by Northwest",
+        "year": "1959",
+        "runtime": "136",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Crime"
+        ],
+        "director": "Alfred Hitchcock",
+        "actors": "Cary Grant, Eva Marie Saint, James Mason, Jessie Royce Landis",
+        "plot": "A hapless New York advertising executive is mistaken for a government agent by a group of foreign spies, and is pursued across the country while he looks for a way to survive.",
+        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjQwMTQ0MzgwNl5BMl5BanBnXkFtZTgwNjc4ODE4MzE@._V1_SX300.jpg"
+    },
+    {
+        "id": 59,
+        "title": "Madagascar: Escape 2 Africa",
+        "year": "2008",
+        "runtime": "89",
+        "genres": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "director": "Eric Darnell, Tom McGrath",
+        "actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+        "plot": "The animals try to fly back to New York City, but crash-land on an African wildlife refuge, where Alex is reunited with his parents.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExMDA4NDcwMl5BMl5BanBnXkFtZTcwODAxNTQ3MQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 60,
+        "title": "Despicable Me 2",
+        "year": "2013",
+        "runtime": "98",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "director": "Pierre Coffin, Chris Renaud",
+        "actors": "Steve Carell, Kristen Wiig, Benjamin Bratt, Miranda Cosgrove",
+        "plot": "When Gru, the world's most super-bad turned super-dad has been recruited by a team of officials to stop lethal muscle and a host of Gru's own, He has to fight back with new gadgetry, cars, and more minion madness.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjExNjAyNTcyMF5BMl5BanBnXkFtZTgwODQzMjQ3MDE@._V1_SX300.jpg"
+    },
+    {
+        "id": 61,
+        "title": "Downfall",
+        "year": "2004",
+        "runtime": "156",
+        "genres": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "director": "Oliver Hirschbiegel",
+        "actors": "Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes",
+        "plot": "Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM1OTI1MjE2Nl5BMl5BanBnXkFtZTcwMTEwMzc4NA@@._V1_SX300.jpg"
+    },
+    {
+        "id": 62,
+        "title": "Madagascar",
+        "year": "2005",
+        "runtime": "86",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "director": "Eric Darnell, Tom McGrath",
+        "actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+        "plot": "Spoiled by their upbringing with no idea what wild life is really like, four animals from New York Central Zoo escape, unwittingly assisted by four absconding penguins, and find themselves in Madagascar, among a bunch of merry lemurs",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY4NDUwMzQxMF5BMl5BanBnXkFtZTcwMDgwNjgyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 63,
+        "title": "Madagascar 3: Europe's Most Wanted",
+        "year": "2012",
+        "runtime": "93",
+        "genres": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "director": "Eric Darnell, Tom McGrath, Conrad Vernon",
+        "actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+        "plot": "Alex, Marty, Gloria and Melman are still fighting to get home to their beloved Big Apple. Their journey takes them through Europe where they find the perfect cover: a traveling circus, which they reinvent - Madagascar style.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2MTIzNzk2MF5BMl5BanBnXkFtZTcwMDcwMzQxNw@@._V1_SX300.jpg"
+    },
+    {
+        "id": 64,
+        "title": "God Bless America",
+        "year": "2011",
+        "runtime": "105",
+        "genres": [
+            "Comedy",
+            "Crime"
+        ],
+        "director": "Bobcat Goldthwait",
+        "actors": "Joel Murray, Tara Lynne Barr, Melinda Page Hamilton, Mackenzie Brooke Smith",
+        "plot": "On a mission to rid society of its most repellent citizens, terminally ill Frank makes an unlikely accomplice in 16-year-old Roxy.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQwMTc1MzA4NF5BMl5BanBnXkFtZTcwNzQwMTgzNw@@._V1_SX300.jpg"
+    },
+    {
+        "id": 65,
+        "title": "The Social Network",
+        "year": "2010",
+        "runtime": "120",
+        "genres": [
+            "Biography",
+            "Drama"
+        ],
+        "director": "David Fincher",
+        "actors": "Jesse Eisenberg, Rooney Mara, Bryan Barter, Dustin Fitzsimons",
+        "plot": "Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, but is later sued by two brothers who claimed he stole their idea, and the co-founder who was later squeezed out of the business.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM2ODk0NDAwMF5BMl5BanBnXkFtZTcwNTM1MDc2Mw@@._V1_SX300.jpg"
+    },
+    {
+        "id": 66,
+        "title": "The Pianist",
+        "year": "2002",
+        "runtime": "150",
+        "genres": [
+            "Biography",
+            "Drama",
+            "War"
+        ],
+        "director": "Roman Polanski",
+        "actors": "Adrien Brody, Emilia Fox, Michal Zebrowski, Ed Stoppard",
+        "plot": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTc4OTkyOTA3OF5BMl5BanBnXkFtZTYwMDIxNjk5._V1_SX300.jpg"
+    },
+    {
+        "id": 67,
+        "title": "Alive",
+        "year": "1993",
+        "runtime": "120",
+        "genres": [
+            "Adventure",
+            "Biography",
+            "Drama"
+        ],
+        "director": "Frank Marshall",
+        "actors": "Ethan Hawke, Vincent Spano, Josh Hamilton, Bruce Ramsay",
+        "plot": "Uruguayan rugby team stranded in the snow swept Andes are forced to use desperate measures to survive after a plane crash.",
+        "posterUrl": ""
+    },
+    {
+        "id": 68,
+        "title": "Casablanca",
+        "year": "1942",
+        "runtime": "102",
+        "genres": [
+            "Drama",
+            "Romance",
+            "War"
+        ],
+        "director": "Michael Curtiz",
+        "actors": "Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains",
+        "plot": "In Casablanca, Morocco in December 1941, a cynical American expatriate meets a former lover, with unforeseen complications.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQwNDYyNTk2N15BMl5BanBnXkFtZTgwMjQ0OTMyMjE@._V1_SX300.jpg"
+    },
+    {
+        "id": 69,
+        "title": "American Gangster",
+        "year": "2007",
+        "runtime": "157",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "director": "Ridley Scott",
+        "actors": "Denzel Washington, Russell Crowe, Chiwetel Ejiofor, Josh Brolin",
+        "plot": "In 1970s America, a detective works to bring down the drug empire of Frank Lucas, a heroin kingpin from Manhattan, who is smuggling the drug into the country from the Far East.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkyNzY5MDA5MV5BMl5BanBnXkFtZTcwMjg4MzI3MQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 70,
+        "title": "Catch Me If You Can",
+        "year": "2002",
+        "runtime": "141",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "director": "Steven Spielberg",
+        "actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+        "plot": "The true story of Frank Abagnale Jr. who, before his 19th birthday, successfully conned millions of dollars' worth of checks as a Pan Am pilot, doctor, and legal prosecutor.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg"
+    },
+    {
+        "id": 71,
+        "title": "American History X",
+        "year": "1998",
+        "runtime": "119",
+        "genres": [
+            "Crime",
+            "Drama"
+        ],
+        "director": "Tony Kaye",
+        "actors": "Edward Norton, Edward Furlong, Beverly D'Angelo, Jennifer Lien",
+        "plot": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZjA0MTM4MTQtNzY5MC00NzY3LWI1ZTgtYzcxMjkyMzU4MDZiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg"
+    },
+    {
+        "id": 72,
+        "title": "Casino",
+        "year": "1995",
+        "runtime": "178",
+        "genres": [
+            "Biography",
+            "Crime",
+            "Drama"
+        ],
+        "director": "Martin Scorsese",
+        "actors": "Robert De Niro, Sharon Stone, Joe Pesci, James Woods",
+        "plot": "Greed, deception, money, power, and murder occur between two best friends, a mafia underboss and a casino owner, for a trophy wife over a gambling empire.",
+        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg"
+    },
+    {
+        "id": 73,
+        "title": "Pirates of the Caribbean: At World's End",
+        "year": "2007",
+        "runtime": "169",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "director": "Gore Verbinski",
+        "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+        "plot": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg"
+    },
+    {
+        "id": 74,
+        "title": "Pirates of the Caribbean: On Stranger Tides",
+        "year": "2011",
+        "runtime": "136",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "director": "Rob Marshall",
+        "actors": "Johnny Depp, Penélope Cruz, Geoffrey Rush, Ian McShane",
+        "plot": "Jack Sparrow and Barbossa embark on a quest to find the elusive fountain of youth, only to discover that Blackbeard and his daughter are after it too.",
+        "posterUrl": "http://ia.media-imdb.com/images/M/MV5BMjE5MjkwODI3Nl5BMl5BanBnXkFtZTcwNjcwMDk4NA@@._V1_SX300.jpg"
+    },
+    {
+        "id": 75,
+        "title": "Crash",
+        "year": "2004",
+        "runtime": "112",
+        "genres": [
+            "Crime",
+            "Drama",
+            "Thriller"
+        ],
+        "director": "Paul Haggis",
+        "actors": "Karina Arroyave, Dato Bakhtadze, Sandra Bullock, Don Cheadle",
+        "plot": "Los Angeles citizens with vastly separate lives collide in interweaving stories of race, loss and redemption.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTk1OTA1MjIyNV5BMl5BanBnXkFtZTcwODQxMTkyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 76,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "year": "2003",
+        "runtime": "143",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "director": "Gore Verbinski",
+        "actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+        "plot": "Blacksmith Will Turner teams up with eccentric pirate \"Captain\" Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies, who are now undead.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjAyNDM4MTc2N15BMl5BanBnXkFtZTYwNDk0Mjc3._V1_SX300.jpg"
+    },
+    {
+        "id": 77,
+        "title": "The Lord of the Rings: The Return of the King",
+        "year": "2003",
+        "runtime": "201",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "director": "Peter Jackson",
+        "actors": "Noel Appleby, Ali Astin, Sean Astin, David Aston",
+        "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4MjA1NTAyMV5BMl5BanBnXkFtZTcwNzM1NDQyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 78,
+        "title": "Oldboy",
+        "year": "2003",
+        "runtime": "120",
+        "genres": [
+            "Drama",
+            "Mystery",
+            "Thriller"
+        ],
+        "director": "Chan-wook Park",
+        "actors": "Min-sik Choi, Ji-tae Yu, Hye-jeong Kang, Dae-han Ji",
+        "plot": "After being kidnapped and imprisoned for 15 years, Oh Dae-Su is released, only to find that he must find his captor in 5 days.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 79,
+        "title": "Chocolat",
+        "year": "2000",
+        "runtime": "121",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "director": "Lasse Hallström",
+        "actors": "Alfred Molina, Carrie-Anne Moss, Aurelien Parent Koenig, Antonio Gil",
+        "plot": "A woman and her daughter open a chocolate shop in a small French village that shakes up the rigid morality of the community.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA4MDI3NTQwMV5BMl5BanBnXkFtZTcwNjIzNDcyMQ@@._V1_SX300.jpg"
+    },
+    {
+        "id": 80,
+        "title": "Casino Royale",
+        "year": "2006",
+        "runtime": "144",
+        "genres": [
+            "Action",
+            "Adventure",
+            "Thriller"
+        ],
+        "director": "Martin Campbell",
+        "actors": "Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench",
+        "plot": "Armed with a licence to kill, Secret Agent James Bond sets out on his first mission as 007 and must defeat a weapons dealer in a high stakes game of poker at Casino Royale, but things are not what they seem.",
+        "posterUrl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM5MjI4NDExNF5BMl5BanBnXkFtZTcwMDM1MjMzMQ@@._V1_SX300.jpg"
+    }
+  ] 
 }
