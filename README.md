@@ -34,28 +34,8 @@ movie-collection-webapp/
    - images/
 - README.md  
 
-## Contributing
-
-1. Fork the repository.
-
-2. Clone the repository
-`git clone <repository-url>`
-
-3. Navigate into the repository directory
-`cd movie-collection-webapp`
-
-4. Create a new branch:
-`git checkout -b feat/your-feature`
-
-4. Commit changes and push: 
-`git add .`
-`git commit -m "feat: add feature"`
-`git push origin feat/feature-branch`
-
-5. Submit a pull request.
-
 ## Links to CLI Documentation
-   - [Commands used Documentation](docs/commands.md)
+   - [Documentation for Commands Used](docs/commands.md)
    - [Screenshots of Terminal Operations](docs/images)
 
 ## Git Workflow steps
@@ -72,11 +52,11 @@ git checkout -b feature/[feature-name]
 - Implement the features and commit changes
 ```bash
 git add .
-git commit -m "Descriptive commit message"
+git commit -m "feat: your feature"
 ```
 - Push branch to remote
 ```bash
-git push origin feature/[feature-name]
+git push origin feat/[feature-name]
 ```
 - Create a Pull Request on GitHub
 - Request Collaborator to review code
