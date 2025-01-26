@@ -54,15 +54,6 @@ movie-collection-webapp/
 5. Submit a pull request.
 
 
-## Terminal Screenshots
-#### Repository Setup
-1. Creating the project directory using CLI
-![Project Directory Creation Using CLI](/images/pd.png)
-2. Initializing Git repository
-![Initializing Git repository](/images/gitinit.png)
-3. Creating project structure using CLI
-![Creating project structure using CLI](/images/structure.png)
-4. Creating GitHub repository and pushing initial structure
-![Creating GitHub repository and pushing initial structure](/images/add.png)
-![Creating GitHub repository and pushing initial structure](/images/commit.png)
-![Creating GitHub repository and pushing initial structure](/images/push.png)
+## Links to CLI Documentation
+   - [Commands used Documentation](docs/commands.md)
+   - [Screenshots of Terminal Operations](docs/images)
