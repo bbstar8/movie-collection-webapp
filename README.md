@@ -24,15 +24,15 @@ Provide steps to get the app running locally.
 ## Project Structure
 
 movie-collection-webapp/  
-├── index.html  
-├── css/  
-│   └── style.css  
-├── js/  
-│   └── app.js  
-├── docs/  
-│   └── commands.md  
-├── images/  
-└── README.md  
+- index.html
+- css/
+      - style.css  
+- js/  
+   - app.js  
+- docs/
+   - commands.md  
+   - images/
+- README.md  
 
 
 ## Contributing
