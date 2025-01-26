@@ -5,8 +5,8 @@ This document contains CLI commands used in this project, grouped by their funct
 ---
 
 ## Table of Contents
-1. [File and Directory Operations](#file-and-directory-operations)
-2. [Git Commands](#git-commands)
+1. [File and Directory Operations](#1-file-and-directory-operations)
+2. [Git Commands](#2-git-commands)
 
 ---
 
@@ -64,7 +64,7 @@ These commands were used to navigate and manage files and directories.
   ```
 
 
-### 2. Git Commands
+## 2. Git Commands
 
 These commands were used to initialise, commit and push changes to a Git repository.
 
