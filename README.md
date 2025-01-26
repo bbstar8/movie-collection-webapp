@@ -34,68 +34,55 @@ movie-collection-webapp/
    - images/
 - README.md  
 
-## Contributing
-
-1. Fork the repository.
-
-2. Clone the repository
-`git clone <repository-url>`
-
-3. Navigate into the repository directory
-`cd movie-collection-webapp`
-
-4. Create a new branch:
-`git checkout -b feat/your-feature`
-
-4. Commit changes and push: 
-`git add .`
-`git commit -m "feat: add feature"`
-`git push origin feat/feature-branch`
-
-5. Submit a pull request.
-
 ## Links to CLI Documentation
-   - [Commands used Documentation](docs/commands.md)
+   - [Documentation for Commands Used](docs/commands.md)
    - [Screenshots of Terminal Operations](docs/images)
 
 ## Git Workflow steps
  After initializing, committing and pushing initial project structure to GitHub
- - Clone the repository
-```bash
-git clone [repository-url]
-cd movie-collection
-```
-- Create a Feature Branch
-```bash
-git checkout -b feature/[feature-name]
-```
-- Implement the features and commit changes
-```bash
-git add .
-git commit -m "Descriptive commit message"
-```
-- Push branch to remote
-```bash
-git push origin feature/[feature-name]
-```
-- Create a Pull Request on GitHub
-- Request Collaborator to review code
-- Merge the pull request
+
+ 1. Clone the repository
+   ```bash
+   git clone [repository-url]
+   cd movie-collection
+   ```
+2. Create a Feature Branch
+   ```bash
+   git checkout -b feat/[feature-name]
+   ```
+3. Implement the features and commit changes
+   ```bash
+   git add .
+   git commit -m "feat: your feature"
+   ```
+4. Push branch to remote
+   ```bash
+   git push origin feat/[feature-name]
+   ```
+5. Create a Pull Request on GitHub
+6. Request Collaborator to review code
+7. Merge the pull request
+
 
 ## Feature List and Implementation Details
-1. **Creating HTML Structure:** Created the basic layout using HTML to represent the structure of the movie collection web app.
-- Used semantic HTML tags like ```<main>```, ```<header>```, and ```<footer>``` for better accessibility and organization.
-- Included an input section with a dropdown ```<select>``` for genre filtering and a grid ```<div>``` to display the movie cards.
-2. **Styling using CSS:** Styled the webpage using external CSS to ensure a clean and responsive layout.
-- Applied a grid layout for displaying the movie cards to make it easy to scale on different screen sizes.
-- Added hover effects on the movie cards for a more interactive user experience.
-3. **Movie Data Rendering:** Movie data is stored in a ```movies.json``` file, which includes an array of movies, each containing information such as title, year, genres, posterUrl, and description.
-- When the page is loaded, a fetch request is sent to load the movie data asynchronously from the JSON file. The data is parsed and rendered.
-4. **Genre Filtering:** Filter movies based on their genres.
--  A dropdown menu ```<select>``` allows users to filter movies based on their genre.
-- When a user selects a genre, an event listener listens for the change event on the dropdown and filters the displayed movies based on the selected genre.
+
+- **Creating HTML Structure:** Created the basic layout using HTML to represent the structure of the movie collection web app.
+   - Used semantic HTML tags like ```<main>```, ```<header>```, and ```<footer>``` for better accessibility and organization.
+   - Included an input section with a dropdown ```<select>``` for genre filtering and a grid ```<div>``` to display the movie cards.
+
+- **Styling using CSS:** Styled the webpage using external CSS to ensure a clean and responsive layout.
+   - Applied a grid layout for displaying the movie cards to make it easy to scale on different screen sizes.
+   - Added hover effects on the movie cards for a more interactive user experience.
+
+- **Movie Data Rendering:** Movie data is stored in a ```movies.json``` file, which includes an array of movies, each containing information such as title, year, genres, posterUrl, and description.
+   - When the page is loaded, a fetch request is sent to load the movie data asynchronously from the JSON file. The data is parsed and rendered.
+   
+- **Genre Filtering:** Filter movies based on their genres.
+   -  A dropdown menu ```<select>``` allows users to filter movies based on their genre.
+   - When a user selects a genre, an event listener listens for the change event on the dropdown and filters the displayed movies based on the selected genre.
  
 ## Team Member Contributions
+
 ### Testimony:
 1. Created the Initial Project Structure
 2. Created HTML structure
