@@ -66,7 +66,7 @@ These commands were used to navigate and manage files and directories.
 
 ## 2. Git Commands
 
-These commands were used to initialise, commit and push changes to a Git repository.
+These commands were used to initialise, commit and push changes to the Git repository.
 
 ### `git init` - Initialise a Repository
 - ***Description***: Sets up a new Git repository in the current directory.
@@ -76,7 +76,7 @@ These commands were used to initialise, commit and push changes to a Git reposit
   ```
 
 ### `git add` - Stage Changes
-- ***Description***: Adds changes to the staging are for the next commit.
+- ***Description***: Adds changes to the staging for the next commit.
 - ***Usage***:
   ```bash
   git add [file/directory]
