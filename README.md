@@ -48,7 +48,7 @@ movie-collection-webapp/
    ```
 2. Create a Feature Branch
    ```bash
-   git checkout -b feature/[feature-name]
+   git checkout -b feat/[feature-name]
    ```
 3. Implement the features and commit changes
    ```bash
