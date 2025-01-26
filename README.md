@@ -1,8 +1,9 @@
 # Movie Collection Webapp
 A simple web app that renders and filters movies based on their genres using HTML, CSS, and JavaScript.
 
-## Link to Live Site
-[Movie Collection WebApp](https://playful-cendol-7e1250.netlify.app/)
+## Link to Live Site and Presentation
+- [Movie Collection WebApp](https://playful-cendol-7e1250.netlify.app/)    
+- [Google Docs Presentation](https://docs.google.com/document/d/14CoMq1jLbeBjUpmOegiDv7ok5x2GDWLud-y5HDidQgA/edit?usp=sharing)
 
 ## Setup Instructions
 Provide steps to get the app running locally.
@@ -20,7 +21,6 @@ Provide steps to get the app running locally.
 
 3. Open `index.html` in the browser.
 
-
 ## Project Structure
 
 movie-collection-webapp/  
@@ -33,7 +33,6 @@ movie-collection-webapp/
    - commands.md  
    - images/
 - README.md  
-
 
 ## Contributing
 
@@ -55,7 +54,101 @@ movie-collection-webapp/
 
 5. Submit a pull request.
 
+## Project Setup Instructions
+1. Create the project directory using CLI:
+``` bash
+mkdir movie-collection
+cd movie-collection
+```
+2. Initialize git repository
+```bash
+git init
+```
+3. Create project structure using CLI
+```bash
+mkdir css js assets docs images
+mkdir js/data
+mkdir docs/images
+touch index.html
+touch js/app.js js/data/movies.json
+```
+4. Create GitHub repository and push initial structure:
+```bash
+git add .
+git commit -m "Initial project structure"
+git branch -M main
+git remote add origin [repository-url]
+git push -u origin main
+```
+5. Clone the repository
+```bash
+git clone [repository-url]
+cd movie-collection
+```
+6. Create a Feature Branch
+```bash
+git checkout -b Feat/js content
+```
 
 ## Links to CLI Documentation
    - [Commands used Documentation](docs/commands.md)
    - [Screenshots of Terminal Operations](docs/images)
+
+## Git Workflow steps
+ After initializing, committing and pushing initial project structure to GitHub
+ - Clone the repository
+```bash
+git clone [repository-url]
+cd movie-collection
+```
+- Create a Feature Branch
+```bash
+git checkout -b feature/[feature-name]
+```
+- Implement the features and commit changes
+```bash
+git add .
+git commit -m "Descriptive commit message"
+```
+- Push branch to remote
+```bash
+git push origin feature/[feature-name]
+```
+- Create a Pull Request on GitHub
+- Request Collaborator to review code
+- Merge the pull request
+
+## Feature List and Implementation Details
+1. **Creating HTML Structure:** Created the basic layout using HTML to represent the structure of the movie collection web app.
+- Used semantic HTML tags like ```<main>```, ```<header>```, and ```<footer>``` for better accessibility and organization.
+- Included an input section with a dropdown ```<select>``` for genre filtering and a grid ```<div>``` to display the movie cards.
+2. **Styling using CSS:** Styled the webpage using external CSS to ensure a clean and responsive layout.
+- Applied a grid layout for displaying the movie cards to make it easy to scale on different screen sizes.
+- Added hover effects on the movie cards for a more interactive user experience.
+3. **Movie Data Rendering:** Movie data is stored in a ```movies.json``` file, which includes an array of movies, each containing information such as title, year, genres, posterUrl, and description.
+- When the page is loaded, a fetch request is sent to load the movie data asynchronously from the JSON file. The data is parsed and rendered.
+4. **Genre Filtering:** Filter movies based on their genres.
+-  A dropdown menu ```<select>``` allows users to filter movies based on their genre.
+- When a user selects a genre, an event listener listens for the change event on the dropdown and filters the displayed movies based on the selected genre.
+ 
+## Team Member Contributions
+### Testimony:
+1. Created the Initial Project Structure
+2. Created HTML structure
+3. Implemented basic CSS styling
+4. Contributed to README documentation
+
+### Susu:
+5. Set up movie data structure
+6. Developed movie card rendering
+7. Implemented movie filtering by genre feature
+8. Contributed to README documentation
+
+## Pull Request History
+![Pull Request History](./images/pull-request.png)
+
+## Lessons Learned
+1. The importance of clear communication and consistent coding styles.
+2. Assigning clear responsibilities as it helps to ensure accountability and reduce duplication of work.
+3. The value of using pull requests for code reviews.
+4. The usefulness of peer code reviews in optimizing implementations, and ensuring adherence to best practices.
