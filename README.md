@@ -3,7 +3,7 @@ A simple web app that renders and filters movies based on their genres using HTM
 
 ## Link to Live Site and Presentation
 - [Movie Collection WebApp](https://playful-cendol-7e1250.netlify.app/)    
-- [Google Docs Presentation](https://docs.google.com/document/d/14CoMq1jLbeBjUpmOegiDv7ok5x2GDWLud-y5HDidQgA/edit?usp=sharing)
+- [Google Slides Presentation](https://docs.google.com/presentation/d/1_ifnxSk8uoNjJ6xHjGNzFQRVjCSfX-jBwL50qHsNQv0/edit?usp=sharing)
 
 ## Setup Instructions
 Provide steps to get the app running locally.
@@ -53,42 +53,6 @@ movie-collection-webapp/
 `git push origin feat/feature-branch`
 
 5. Submit a pull request.
-
-## Project Setup Instructions
-1. Create the project directory using CLI:
-``` bash
-mkdir movie-collection
-cd movie-collection
-```
-2. Initialize git repository
-```bash
-git init
-```
-3. Create project structure using CLI
-```bash
-mkdir css js assets docs images
-mkdir js/data
-mkdir docs/images
-touch index.html
-touch js/app.js js/data/movies.json
-```
-4. Create GitHub repository and push initial structure:
-```bash
-git add .
-git commit -m "Initial project structure"
-git branch -M main
-git remote add origin [repository-url]
-git push -u origin main
-```
-5. Clone the repository
-```bash
-git clone [repository-url]
-cd movie-collection
-```
-6. Create a Feature Branch
-```bash
-git checkout -b Feat/js content
-```
 
 ## Links to CLI Documentation
    - [Commands used Documentation](docs/commands.md)
